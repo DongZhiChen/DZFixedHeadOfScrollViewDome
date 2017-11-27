@@ -1,0 +1,16 @@
+PODS:
+  - DZRollingTabView (1.0.1):
+    - Masonry
+  - Masonry (1.1.0)
+
+DEPENDENCIES:
+  - DZRollingTabView
+  - Masonry
+
+SPEC CHECKSUMS:
+  DZRollingTabView: 729d708669c04a2e6b1d7075c0e4e9c3e6743b65
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+
+PODFILE CHECKSUM: 27f358c85e6731ebb56efa9df5ab94e810ddad31
+
+COCOAPODS: 1.4.0.beta.2
